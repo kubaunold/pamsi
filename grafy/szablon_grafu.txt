@@ -1,0 +1,10 @@
+size
+vert_0		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_1		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_2		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_3		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_4		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_5		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+vert_6		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
+...
+vert_(size-1)		vert_0 edge_0	vert_1 edge_1	vert_2 edge_2	vert_3 edge_3	vert_3 edge_3	 ...	 vert_(size-1) edge_(size-1)
